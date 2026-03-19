@@ -1,0 +1,11 @@
+#v#w@x@y#z(~P(x,z,v) = Q(y,w) > R(v,w,z)) ==
+#v#w@x@y#z( ( ~~P(x,z,v) + ( Q(y,w) > R(v,w,z) ) ) * ( ~P(x,z,v) + ~( Q(y,w) > R(v,w,z) ) ) ) ==
+#v#w@x@y#z( ( ~~P(x,z,v) + ~Q(y,w) + R(v,w,z) ) * ( ~P(x,z,v) + ~( ~Q(y,w) + R(v,w,z) ) ) ) ==
+#v#w@x@y#z( ( P(x,z,v) + ~Q(y,w) + R(v,w,z) ) * ( ~P(x,z,v) + ( ~~Q(y,w) * ~R(v,w,z) ) ) ) ==
+#v#w@x@y#z( ( P(x,z,v) + ~Q(y,w) + R(v,w,z) ) * ( ~P(x,z,v) + ( Q(y,w) * ~R(v,w,z) ) ) ) ==
+#w@x@y#z( ( P(x,z,A) + ~Q(y,w) + R(A,w,z) ) * ( ~P(x,z,A) + ( Q(y,w) * ~R(A,w,z) ) ) ) ==
+@x@y#z( ( P(x,z,A) + ~Q(y,B) + R(A,B,z) ) * ( ~P(x,z,A) + ( Q(y,B) * ~R(A,B,z) ) ) ) ==
+@x@y( ( P(x,a(x,y),A) + ~Q(y,B) + R(A,B,a(x,y)) ) * ( ~P(x,a(x,y),A) + ( Q(y,B) * ~R(A,B,a(x,y)) ) ) ) ==
+( P(x,a(x,y),A) + ~Q(y,B) + R(A,B,a(x,y)) ) * ( ~P(x,a(x,y),A) + ( Q(y,B) * ~R(A,B,a(x,y)) ) ) ==
+( P(x,a(x,y),A) + ~Q(y,B) + R(A,B,a(x,y)) ) * ( ~P(x,a(x,y),A) + Q(y,B) ) * ( ~P(x,a(x,y),A) + ~R(A,B,a(x,y)) ) ==
+{ ( P(x,a(x,y),A) + ~Q(y,B) + R(A,B,a(x,y)) ) , ( ~P(x1,a(x1,y1),A) + Q(y1,B) ) , ( ~P(x2,a(x2,y2),A) + ~R(A,B,a(x2,y2)) ) }

@@ -1,0 +1,17 @@
+/*****************************************************************************
+
+                        Copyright (c) 2004 Kate Kotova
+
+******************************************************************************/
+
+#include @"Base\Base.ph"
+
+% privately used packages
+#include @"pfc\exception\exception.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"Base\base.pro"

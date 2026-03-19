@@ -1,0 +1,21 @@
+/*****************************************************************************
+
+                        Copyright (c) 2004 Kate Kotova
+
+******************************************************************************/
+
+#include @"Parser\Parser.ph"
+
+% privately used packages
+#include @"pfc\5xvip\5xstring\5xstring.ph"
+#include @"base\base.ph"
+#include @"output\output.ph"
+#include @"pfc\5xvip\5xfile\5xfile.ph"
+#include @"pfc\exception\exception.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"Parser\parser.pro"

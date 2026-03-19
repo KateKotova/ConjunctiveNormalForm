@@ -1,0 +1,23 @@
+:Base cnf.hlp>ALLCNF
+1 Язык и транслятор
+2 Логический язык и транслятор в КНФ=ALLCNF
+2 Алфавит логического языка=Alphabet
+2 Скобочные выражения=Parentheses
+2 Преобразование ко множеству предложений=Translation
+2 Предикат
+3 Предикаты=Predicates
+3 Константы=Constants
+3 Переменные=Variables
+3 Функции=Functions
+2 Операция
+3 Операции=Operations
+3 Одноаргументные операции=OneArgumentOperations
+3 Двухаргументные операции=TwoArgumentsOperations
+3 Мультиаргументные операции=MultiArgumentsOperations
+1 Элементы интерфейса
+2 Среда разработки=Editor
+2 Главное меню=MainMenu
+2 Панель инструментов=InstrumentsPanel
+2 Окно файла программы=ProgramWindow
+2 Окно диалога=DialogWindow
+2 Строка состояния=Status

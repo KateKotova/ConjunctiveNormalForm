@@ -1,0 +1,75 @@
+/************************************************************************
+      This file is handled by the Visual Development Environment       
+************************************************************************/
+
+interface resourceIdentifiers
+constants
+    idd_dlg_about = 10000.
+    idc_dlg_about_st_prj = 10001.
+    idc_dlg_about_st_copy = 10002.
+    idc_dlg_about_nijanus = 10003.
+    idc_dlg_about_bogdanov = 10004.
+    idc_dlg_about_cukanova = 10005.
+    project_icon = 10006.
+    idct_hjholstvej = 10007.
+    idct_internet_email = 10008.
+    idct_web_httpwwwpdcdk = 10009.
+    idc_about_dialog_1 = 10010.
+    idct_dlg_about_kotova = 10011.
+    idct_dlg_about_rgrtu = 10012.
+    popup_menu = 10013.
+    id_engine_reconsult = 10014.
+    id_edit_undo = 10015.
+    id_edit_redo = 10016.
+    id_edit_cut = 10017.
+    id_edit_copy = 10018.
+    id_edit_paste = 10019.
+    id_edit_delete = 10020.
+    id_edit_insert = 10021.
+    id_change_case = 10022.
+    id_change_case_set_upper = 10023.
+    id_change_case_set_lower = 10024.
+    id_change_case_toggle = 10025.
+    id_edit_search = 10026.
+    id_edit_search_again = 10027.
+    id_edit_replace = 10028.
+    id_edit_goto_line = 10029.
+    id_edit_goto_pos = 10030.
+    id_edit_font = 10031.
+    id_edit_autoindent = 10032.
+    id_taskmenu = 10033.
+    id_file = 10034.
+    id_file_new = 10035.
+    id_file_open = 10036.
+    id_file_consult = 10037.
+    id_file_save = 10038.
+    id_file_save_as = 10039.
+    id_file_exit = 10040.
+    id_edit = 10041.
+    id_engine = 10042.
+    id_help = 10043.
+    id_help_contents = 10044.
+    id_help_local = 10045.
+    id_help_about = 10046.
+    idb_reconsult = 10047.
+    idb_consult = 10048.
+    id_pastebitmap = 10049.
+    id_copybitmap = 10050.
+    id_cutbitmap = 10051.
+    id_redobitmap = 10052.
+    id_undobitmap = 10053.
+    id_helpbitmap = 10054.
+    id_savefilebitmap = 10055.
+    id_openfilebitmap = 10056.
+    idb_newfilebitmap = 10057.
+    vpi_edit_cursor = 10058.
+    idt_help_line = 10059.
+    idt_help_line_1 = 10060.
+    idt_help_stack = 10061.
+    idt_help_line_4 = 10062.
+    idt_help_memory = 10063.
+    idt_help_line_5 = 10064.
+    idt_help_gstack = 10065.
+    idt_help_pause = 10066.
+    idt_help_trace = 10067.
+end interface resourceIdentifiers
